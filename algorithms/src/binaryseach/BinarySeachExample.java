@@ -35,6 +35,7 @@ public class BinarySeachExample {
             if (guess < c) {
                 low = mid + 1;
             }
+            System.out.println(" hee");
         }
         return 0;
     }
